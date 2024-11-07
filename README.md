@@ -19,7 +19,6 @@
 
 #### We welcome contributions! 💡 Have additional guides, improvements, or corrections? Fork this repository and submit a pull request.
 
----
 
 ## Support My Work
 
@@ -41,7 +40,6 @@
 
 - **For questions or support, reach out via** [Telegram](https://t.me/ArKT_7).
 
----
 
 ## 🌐 Stay Updated
 
