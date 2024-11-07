@@ -13,7 +13,7 @@
 
 >
 
-- **More guides coming soon!** 🚀 Regularly updated with more tutorials.
+#### **More guides coming soon!** 🚀 Regularly updated with more tutorials.
 
 ## 🤝 Contributing
 
