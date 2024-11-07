@@ -6,7 +6,7 @@
 
 ## 📖 Guide Contents
 
-Available guides include:
+### Available guides include:
 
 - [🔓 Unlock Xiaomi Bootloader](https://github.com/ArKT-7/ArKT-Guides/blob/main/Xiaomi-unlock-bootloader-en.md)  
 #### A full guide for unlocking the bootloader on Xiaomi devices, with instructions for both HyperOS/MIUI 14 and MIUI 13 or below.
