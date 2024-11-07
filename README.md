@@ -2,8 +2,6 @@
 
 ### Welcome to **ArKT Guides**, a comprehensive collection of guides for various devices and software! 🎉 From unlocking Android devices to installing software and customizing your experience, our step-by-step instructions have you covered.
 
----
-
 ## 📖 Guide Contents
 
 ### Available guides include:
@@ -12,8 +10,6 @@
 #### A full guide for unlocking the bootloader on Xiaomi devices, with instructions for both HyperOS/MIUI 14 and MIUI 13 or below.
 
 - **More guides coming soon!** 🚀 Regularly updated with more tutorials.
-
----
 
 ## 🤝 Contributing
 
