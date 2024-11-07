@@ -50,5 +50,5 @@
 
 ## 🌐 Stay Updated
 
-Follow this repository to stay up-to-date with new guides and updates.  
-Happy exploring and unlocking! 🎉🔓
+#### Follow this repository to stay up-to-date with new guides and updates.  
+#### Happy exploring and unlocking! 🎉🔓
