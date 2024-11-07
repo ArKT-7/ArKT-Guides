@@ -37,10 +37,7 @@
 
 ## 🙏 Credits and Acknowledgements
 
-#### This project is maintained and verified by:
-
-- [Telegram - @ArKT_7](https://t.me/ArKT_7)
-- [GitHub - @ArKT-7](https://github.com/ArKT-7)
+- **This guide has been tested and verified by** [@ArKT_7](https://t.me/ArKT_7)  **GitHub:** [@ArKT-7](https://github.com/ArKT-7)
 
 ---
 
