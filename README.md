@@ -2,6 +2,8 @@
 
 ### Welcome to **ArKT Guides**, a comprehensive collection of guides for various devices and software! 🎉 From unlocking Android devices to installing software and customizing your experience, our step-by-step instructions have you covered.
 
+>
+
 ## 📖 Guide Contents
 
 ### Available guides include:
@@ -15,10 +17,13 @@
 
 #### **More guides coming soon!** 🚀 Regularly updated with more tutorials.
 
+>
+
 ## 🤝 Contributing
 
 #### We welcome contributions! 💡 Have additional guides, improvements, or corrections? Fork this repository and submit a pull request.
 
+>
 
 ## Support My Work
 
@@ -33,6 +38,8 @@
   </a>
 </p>
 
+
+>
 
 ## 🙏 Credits and Acknowledgements
 
