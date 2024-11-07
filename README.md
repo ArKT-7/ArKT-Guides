@@ -1,6 +1,6 @@
-# 📚 ArKT Guides Repository
+## 📚 ArKT Guides Repository
 
-#### Welcome to **ArKT Guides**, a comprehensive collection of guides for various devices and software! 🎉 From unlocking Android devices to installing software and customizing your experience, our step-by-step instructions have you covered.
+### Welcome to **ArKT Guides**, a comprehensive collection of guides for various devices and software! 🎉 From unlocking Android devices to installing software and customizing your experience, our step-by-step instructions have you covered.
 
 ---
 
