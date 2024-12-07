@@ -8,6 +8,7 @@
 
 - [`🛠️ HyperSploit (bypass method)`](https://github.com/TheAirBlow/HyperSploit/releases/download/1.0.0/HyperSploit-Windows.exe).
 
+---
 
 >[!WARNING]
 >
