@@ -112,7 +112,6 @@
 ### Credits & Acknowledgements
 #### This guide has been tested and verified by :
 - **Telegram:** [@ArKT_7](https://t.me/ArKT_7)  **GitHub:** [@ArKT-7](https://github.com/ArKT-7)
-- **Telegram:** [@Lazlo](https://t.me/nazisec)  **GitHub: not for racist peoples (this guy is Racist - more towards indians) 😂**
 
 #### Special Thanks to :
 
