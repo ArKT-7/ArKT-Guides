@@ -8,7 +8,6 @@
 
 - [`🛠️ HyperSploit (bypass method)`](https://github.com/TheAirBlow/HyperSploit/releases/download/1.0.0/HyperSploit-Windows.exe).
 
----
 
 >[!WARNING]
 >
@@ -61,10 +60,6 @@
   - Follow the on-screen instructions in the **HyperSploit** window. When asked to **attempt to bind account** :
     - Go to **Settings → Additional settings → Developer options → Mi Unlock status**.
     - Click on **Add account and device**, Once added, HyperSploit will confirm with **Successfully binded**
-
->[!WARNING]
->
-> Backup Data: Unlocking the bootloader will erase all data on your device. Make sure to back up important data before proceeding.
 
   </details>
   
