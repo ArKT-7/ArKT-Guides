@@ -60,7 +60,8 @@
   - Follow the on-screen instructions in the **HyperSploit** window. When asked to **attempt to bind account** :
     - Go to **Settings → Additional settings → Developer options → Mi Unlock status**.
     - Click on **Add account and device**, Once added, HyperSploit will confirm with **Successfully binded**
-  >[!WARNING]
+
+>[!WARNING]
 >
 > Backup Data: Unlocking the bootloader will erase all data on your device. Make sure to back up important data before proceeding.
 
