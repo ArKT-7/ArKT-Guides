@@ -62,6 +62,7 @@
   - Follow the on-screen instructions in the **HyperSploit** window. When asked to **attempt to bind account** :
     - Go to **Settings → Additional settings → Developer options → Mi Unlock status**.
     - Click on **Add account and device**, Once added, HyperSploit will confirm with **Successfully binded**
+  > **In case you using Android 14 and get tons of error the please manually insatll the Settings apk from above**
 
   </details>
   
