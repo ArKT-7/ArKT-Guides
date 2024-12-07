@@ -8,7 +8,7 @@
 
 - [`🛠️ HyperSploit (bypass method)`](https://github.com/TheAirBlow/HyperSploit/releases/download/1.0.0/HyperSploit-Windows.exe).
 
-- [`⚙️ Setting A14 apk (bypass method - need only if error)`](https://github.com/ArKT-7/ArKT-Guides/releases/download/Xiaomi-unlock-bootloader-files/Settings_HyperOS_Android14_SNAP.apk).
+- [`⚙️ Setting A14 apk (Bypass method - need only if error in HyperSploit)`](https://github.com/ArKT-7/ArKT-Guides/releases/download/Xiaomi-unlock-bootloader-files/Settings_HyperOS_Android14_SNAP.apk).
 
 
 >[!WARNING]
