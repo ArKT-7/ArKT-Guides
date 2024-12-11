@@ -45,7 +45,7 @@
 >
 
 <details>
-  <summary><strong>New Process (For HyperOS/MIUI 14): </strong></summary>
+  <summary><strong>New Process (For HyperOS/MIUI 14):▶️ </strong></summary>
   
 >
 
