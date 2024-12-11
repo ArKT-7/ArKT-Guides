@@ -56,7 +56,7 @@
 
   > **this will Bypass the daily quota limit while appling in the Mi Community app.**
 
-  **3. Apply to Unlock (HyperSploit):**
+  **```3. Apply to Unlock (HyperSploit):```**
   - Run **HyperSploit-Windows.exe** as Administrator.
   - When prompted on your device, tap **OK** to allow USB debugging.
   - Follow the on-screen instructions in the **HyperSploit** window. When asked to **attempt to bind account** :
@@ -76,7 +76,7 @@
   - Xiaomi allows **2,000 devices to unlock daily**.
   - The reset time for this daily limit is **7 PM Moscow time**.
 
-  **3. Apply to Unlock:**
+  **```3. Apply to Unlock:```**
    - Align your local time with **7 PM Moscow time** and be ready—timing is crucial.
    - Open the **Xiaomi Community app**, set it to Global, and sign in with the same account as on your device.
    - Go to the **"Me"** tab, click on **"Unlock bootloader,"** then click on **"Apply"**.
