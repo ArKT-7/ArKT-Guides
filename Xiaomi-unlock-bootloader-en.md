@@ -44,12 +44,9 @@
 
 >
 
-<details>
-  <summary><strong>New Process (For HyperOS/MIUI 14): ▶️</strong></summary>
-  
->
+### New Process (For HyperOS/MIUI 14): ▶️
 
-  <details>
+<details>
    <summary><strong>Method 1: Using HyperSploit Bypass (Recommended) ▶️</strong></summary>
     
 >
